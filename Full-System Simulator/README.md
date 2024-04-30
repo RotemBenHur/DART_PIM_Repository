@@ -84,12 +84,20 @@ constexpr uint32_t NUM_COLS_PER_CROSSBAR = 1024;
 constexpr uint32_t CROSSBAR_SIZE_BITS = NUM_ROWS_PER_CROSSBAR*NUM_COLS_PER_CROSSBAR;
 ```
 
-4. **Run**:
+3. **Run**:
+
+Open build directory:
 ```sh
 cd build/  
+```
 
+Compile:
+```sh
 make  
+```
 
+Run:
+```sh
 cd ../  
 
 ./build/dart
