@@ -72,7 +72,6 @@ d. Define all crossbar parameters:
 constexpr uint32_t NUM_ROWS_PER_READS_BUFFER = 160;
 constexpr uint32_t NUM_ROWS_PER_LINEAR_BUFFER = 32; 
 constexpr uint32_t NUM_ROWS_PER_AFFINE_BUFFER = 64;
-constexpr uint32_t NUM_COMPUTE_ROWS_PER_AFFINE_BUFFER = NUM_ROWS_PER_AFFINE_BUFFER/4;
 /**
  * The threshold for a "low-count" minimizer that is handled by the RISC-V
  */
@@ -88,7 +87,10 @@ constexpr uint32_t CROSSBAR_SIZE_BITS = NUM_ROWS_PER_CROSSBAR*NUM_COLS_PER_CROSS
 4. **Run**:
 ```sh
 cd build/  
+
 make  
+
 cd ../  
+
 ./build/dart
 ```
