@@ -14,5 +14,5 @@ In order to use SIMPLE-MAGIC, you will need:
 3. **Configure**: the Wagner-Fischer and crossbar (XB) parameters in the file Single_crossbar_simulator.m  
 (The parameters used in DART-PIM paper are currently defined)
 
-4. **Run**: run Single_crossbar_simulator.m and receive the number of cycles and switches for each step of read mapping that is doen by DART-PIM within a single crossbar.  
+4. **Run**: Single_crossbar_simulator.m and receive the number of cycles and switches for each step of read mapping that is doen by DART-PIM within a single crossbar.  
 The state of each crossbar cell can be seen cycle-by-cycle in "XB" array.
