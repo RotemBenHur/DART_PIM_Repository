@@ -4,15 +4,15 @@ Single-Crossbar Simulator - this simulator models a single crossbar operation cy
 
 ## Dependencies
 In order to use SIMPLE-MAGIC, you will need:
-1. Matlab (we used Matlab R2021a)
+1. Matlab (we used Matlab Rc2021a)
 
 ## Manual
-1. Download: all Single-Crossbar Simulator files.
+1. **Download**: all Single-Crossbar Simulator files
 
-2. Open: Cycle_accurate_simulator.m using matlab.
+2. **Open**: Cycle_accurate_simulator.m using matlab
 
-3. Configure: the Wagner-Fischer and crossbar (XB) parameters in the file Cycle_accurate_simulator.m.
-(The parameters used in DART-PIM paper are currently defined).
+3. **Configure**: the Wagner-Fischer and crossbar (XB) parameters in the file Cycle_accurate_simulator.m  
+(The parameters used in DART-PIM paper are currently defined)
 
-4. Run: run Cycle_accurate_simulator.m and receive the number of cycles and switches for each step of read mapping that is doen by DART-PIM within a single crossbar.
+4. **Run**: run Cycle_accurate_simulator.m and receive the number of cycles and switches for each step of read mapping that is doen by DART-PIM within a single crossbar.
 The state of each crossbar cell can be seen cycle-by-cycle in "XB" array.
