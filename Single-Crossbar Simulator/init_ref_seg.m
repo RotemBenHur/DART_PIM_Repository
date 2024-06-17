@@ -16,8 +16,3 @@ ref_seg(:,idx_kmer_begin:idx_kmer_begin+length(k_mer)-1) = k_mer_mat;
 
 
 
-% Reading from file
-% ref = importdata("C:\Users\rotem\Google Drive\PhD\Thesis\In-memory application\DNA sequencing\Whole DNA Sequencing\Simulators\Cycle Accurate MAT Simulator\Data\ref.txt");
-
-% Change letters to bits 
-    

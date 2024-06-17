@@ -1,6 +1,4 @@
-//
-// Created by Orian Leitersdorf on 12/02/2023.
-//
+
 
 #include <fstream>
 #include <iostream>

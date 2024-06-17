@@ -1,3 +1,0 @@
-/home/rotembenhur/DART-PIM/build/CMakeFiles/edit_cache.dir
-/home/rotembenhur/DART-PIM/build/CMakeFiles/dart.dir
-/home/rotembenhur/DART-PIM/build/CMakeFiles/rebuild_cache.dir

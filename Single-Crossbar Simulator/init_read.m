@@ -10,8 +10,3 @@ for i=1:XB_rows
     read_rows(i,:) = read;
 end
 
-% Change to reading from file
-% ref = importdata("C:\Users\rotem\Google Drive\PhD\Thesis\In-memory application\DNA sequencing\Whole DNA Sequencing\Simulators\Cycle Accurate MAT Simulator\Data\ref.txt");
-
-% Change letters to bits 
-    

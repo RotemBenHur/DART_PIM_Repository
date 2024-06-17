@@ -1,6 +1,4 @@
-//
-// Created by Orian Leitersdorf on 02/02/2023.
-//
+
 
 #ifndef DART_PIM_MINIMIZER_H
 #define DART_PIM_MINIMIZER_H

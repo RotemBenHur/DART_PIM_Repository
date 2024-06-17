@@ -12,8 +12,3 @@ cells_wr1 = nnz(read);
 cells_wr0 = length(read)-cells_wr1;
 
 
-% Change to reading from file
-% ref = importdata("C:\Users\rotem\Google Drive\PhD\Thesis\In-memory application\DNA sequencing\Whole DNA Sequencing\Simulators\Cycle Accurate MAT Simulator\Data\ref.txt");
-
-% Change letters to bits 
-    

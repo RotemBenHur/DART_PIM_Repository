@@ -1,6 +1,4 @@
-//
-// Created by Orian Leitersdorf on 12/02/2023.
-//
+
 
 #ifndef DART_PIM_UTILITY_H
 #define DART_PIM_UTILITY_H

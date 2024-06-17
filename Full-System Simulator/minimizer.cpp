@@ -1,6 +1,4 @@
-//
-// Created by Orian Leitersdorf on 02/02/2023.
-//
+
 
 #include <climits>
 #include <vector>
