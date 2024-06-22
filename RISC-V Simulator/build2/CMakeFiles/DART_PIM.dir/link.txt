@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/DART_PIM.dir/RW_sim.cpp.o -o DART_PIM  -lpthread 
